@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+}
+
+a {
+    color: black;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
